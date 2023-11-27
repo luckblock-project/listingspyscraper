@@ -1,0 +1,8 @@
+{
+  "name": "listingspyscraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luckblock-project/listingspyscraper.git",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT"
+}
